@@ -1,7 +1,7 @@
 # Padova Participant Guide
 
 This guide is the live reference for the 5-hour Padova version of **Agentic
-Coding for Economists**. It adapts the longer Pavia guide into one compact
+Coding for Economists**. It adapts the longer guide into one compact
 sequence centered on a research-article harness.
 
 ## The Core Idea
